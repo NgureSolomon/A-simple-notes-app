@@ -10,6 +10,7 @@ A simple note-taking application built with flask that allows users to create, e
 
 Tech Stack
 - flask
+  
 How to Run
 1. Clone the repo
 2. Run npm install
